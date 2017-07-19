@@ -3,6 +3,11 @@ package AbstractFactory;
 /**
  * Created by Peti on 2017.07.18..
  */
+/*
+* Example for Abstract Factory Pattern.
+* The content will be published on Facebook or Twitter
+* depending on the type of the topic
+*/
 public class Main {
     public static void handleGossip(GossipCatcher gc, Gossip g){
         PostCreator pc = null;
