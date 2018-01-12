@@ -1,2 +1,2 @@
 # practiceIoC
-Practicing IoC patterns in Java, Java Tutorial II.@Doctusoft
+Practicing IoC patterns in Java
